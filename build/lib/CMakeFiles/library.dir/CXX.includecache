@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/james/Desktop/james/computer_vision/hw1/lib/debug.h
+stdio.h
+-
+
+/home/james/Desktop/james/computer_vision/hw1/lib/demo_cpp.cpp
+iostream
+-
+debug.h
+/home/james/Desktop/james/computer_vision/hw1/lib/debug.h
+

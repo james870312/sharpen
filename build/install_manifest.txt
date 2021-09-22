@@ -1,0 +1,5 @@
+/home/james/Desktop/james/computer_vision/hw1/build/install/lib/liblibrary.a
+/home/james/Desktop/james/computer_vision/hw1/build/install/include/demo.h
+/home/james/Desktop/james/computer_vision/hw1/build/install/bin/sharpen
+/home/james/Desktop/james/computer_vision/hw1/build/install/bin/car.png
+/home/james/Desktop/james/computer_vision/hw1/build/install/bin/liberty.png

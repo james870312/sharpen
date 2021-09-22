@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/james/Desktop/james/computer_vision/hw1/build/lib",
+  "command": "/usr/bin/cc  -I/usr/local/include/opencv4 -I/home/james/Desktop/james/computer_vision/hw1/lib   -Wall -O3   -o CMakeFiles/library.dir/demo_c.c.o   -c /home/james/Desktop/james/computer_vision/hw1/lib/demo_c.c",
+  "file": "/home/james/Desktop/james/computer_vision/hw1/lib/demo_c.c"
+},
+{
+  "directory": "/home/james/Desktop/james/computer_vision/hw1/build/lib",
+  "command": "/usr/bin/c++   -I/usr/local/include/opencv4 -I/home/james/Desktop/james/computer_vision/hw1/lib   -Wall -O3   -std=gnu++11 -o CMakeFiles/library.dir/demo_cpp.cpp.o -c /home/james/Desktop/james/computer_vision/hw1/lib/demo_cpp.cpp",
+  "file": "/home/james/Desktop/james/computer_vision/hw1/lib/demo_cpp.cpp"
+},
+{
+  "directory": "/home/james/Desktop/james/computer_vision/hw1/build/util/sharpen",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4 -I/home/james/Desktop/james/computer_vision/hw1/lib -I/home/james/Desktop/james/computer_vision/hw1/util/sharpen   -Wall -O3   -o CMakeFiles/sharpen.dir/main.cpp.o -c /home/james/Desktop/james/computer_vision/hw1/util/sharpen/main.cpp",
+  "file": "/home/james/Desktop/james/computer_vision/hw1/util/sharpen/main.cpp"
+}
+]
